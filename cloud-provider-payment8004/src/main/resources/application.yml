@@ -6,4 +6,4 @@ spring:
     name: cloud-provider-payment
   cloud:
     zookeeper:
-      connect-string: localhost:2181
+      connect-string: localhost:21810
